@@ -1,6 +1,1 @@
-<?xml version="1.0"?>
-<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg">
-<!-- https://tamirov.ru edited -->
-<title>Торцевой шов. Edge Weld - tech drawing chars (FreeCAD) https://freecad-gost.ru</title>
-<path d="m5,60 v-50 h50 v50 m-25,-50 v50" fill="none" stroke="#000" stroke-width="2" stroke-linejoin="round" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><title>Торцевой шов. Edge Weld - tech drawing chars (FreeCAD) https://freecad-gost.ru</title><path fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2" d="m5,60 v-50 h50 v50 m-25,-50 v50"/></svg>
